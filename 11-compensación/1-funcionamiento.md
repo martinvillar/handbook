@@ -12,4 +12,4 @@
 4. You will have around 20 minutes to present your work to your coworkers. There is no predefined format, and both style and content of the talks will vary over time. Take advantage of everyone's presentation to jot down anything that might be useful when it comes to making your decision.
 5. Once presentations are done, sit somewhere comfortable around the office and get ready to make your allocations. You will be presented with a list of everyone who works at manas, their current salaries and an input to fill out with what you think they should get as raise. You will get the full amount to divide as you wish in between everyone, including yourself.
 6. This process is repeated through several rounds. Each time you will see the results from the previous one, and you will get a percentage of the total amount for your allocations.
-6. After every round is done, the system will show the salaries of everyone for the upcoming semester on the screen.
+7. After every round is done, the system will show the salaries of everyone for the upcoming semester on the screen.
